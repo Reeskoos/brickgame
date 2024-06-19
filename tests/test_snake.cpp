@@ -3,7 +3,8 @@
 
 #include <thread>
 
-#include "../brick_game/snake/SnakeModel.h"
+#include "../src/brick_game/snake/SnakeModel.h"
+
 using namespace s21;
 
 class TestSnake : public ::testing::Test {

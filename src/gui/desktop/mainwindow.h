@@ -115,8 +115,8 @@ class MainWindow : public QMainWindow {
   SnakeModel::GameData *snake_data_;
   TetrisModel::GameData *tetris_data_;
 
-  TetrisController *tetris_controller_;
   SnakeController *snake_controller_;
+  TetrisController *tetris_controller_;
 
   /**
    * @brief Clears the screen.
