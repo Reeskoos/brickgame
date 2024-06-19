@@ -3,7 +3,7 @@
 
 #include <thread>
 
-#include "../brick_game/tetris/TetrisModel.h"
+#include "../src/brick_game/tetris/TetrisModel.h"
 
 using namespace s21;
 
