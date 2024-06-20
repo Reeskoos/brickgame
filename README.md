@@ -1,6 +1,6 @@
 # BrickGame
 
-BrickGame v2.0 is a set of classic games that includes the snake game and Tetris./
+BrickGame v2.0 is a set of classic games that includes the snake game and Tetris.
 The program is developed in C++ using the C++17 standard.
 
 ## Requirements
